@@ -1,0 +1,10 @@
+.nav {
+    grid-area: n;
+    background-color: rgba(255, 166, 0, 0.333);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.navlink {
+    text-decoration: none;
+}
